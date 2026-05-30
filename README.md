@@ -17,24 +17,17 @@ Chaque projet est documenté avec :
 ## Projets de la page
    **Projet**               | **Description**                          | **Technologies**               | **Lien**                          |
  |--------------------------|------------------------------------------|--------------------------------|-----------------------------------|
- | Conway's Game of Life.ipynb        | Simulation du jeu de la vie de John Conway, avec quelques interactions possibles  | Python (numpy, pygame)      | [Lien](https://github.com/...)   |
- | [Nom du Projet 2]        | Description courte et percutante.       | React, Node.js, MongoDB        | [Lien](https://github.com/...)   |
- | [Nom du Projet 3]        | Description courte et percutante.       | JavaScript, D3.js              | [Lien](https://github.com/...)   |
+ | Conway's Game of Life.ipynb        | Simulation du jeu de la vie de John Conway, avec quelques interactions possibles  | Python (numpy, pygame)      | [Lien](https://github.com/JosquinLDG/Projets-personnels/blob/main/Conway's%20Game%20of%20Life.ipynb)   |
+ | [Détection_droites_cpp.zip]        | Projet de détection de droites sur une image bruitée       | C++       | [Lien](https://github.com/JosquinLDG/Projets-personnels/blob/main/D%C3%A9tection_droites_cpp.zip)   |
+ | Projet Tetris.7z        | Projet (encore en cours) de développement du jeu Tetris       | C#, Unity              | [Lien](https://github.com/JosquinLDG/Projets-personnels/blob/main/Projet%20Tetris.7z)   |
 
----
-## 🔍 Comment explorer ?
-
-1. **Parcourez la liste** ci-dessus pour découvrir mes projets phares.
-2. **Visitez les dépôts** pour voir le code, les documentations détaillées et les démonstrations (si disponibles).
-3. **N'hésitez pas à me contacter** pour discuter d'un projet, proposer une collaboration ou signaler un bug !
 
 ---
 ## 📬 Contact
 
 Pour toute question, suggestion ou opportunité de collaboration :
-- **Email** : [votre.email@example.com](mailto:votre.email@example.com)
-- **LinkedIn** : [votre-profil-linkedin](https://www.linkedin.com/in/votre-profil/)
-- **Portfolio** : [votre-site-web](https://votre-site.com) *(si applicable)*
+- **Email** : [josquin.ledantec@gmail.com](mailto:josquin.ledantec@gmail.com)
+- **LinkedIn** : [www.linkedin.com/in/josquin-le-dantec](www.linkedin.com/in/josquin-le-dantec)
 
 ---
 *Dernière mise à jour : [Date]*
