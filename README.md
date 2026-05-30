@@ -1,12 +1,12 @@
-# 👨‍💻 Mes Projets Personnels
+# Mes Projets Personnels
 
 Bienvenue sur ma page de projets personnels ! Ici, vous trouverez une sélection de mes travaux, explorations et expérimentations en développement, data science, automatisation, et plus.
 
 ---
 
-## 📌 À propos
+## À propos
 
-Cette page regroupe mes **projets open-source et personnels**, développés pour apprendre, tester de nouvelles technologies ou résoudre des problèmes concrets.
+Cette page regroupe mes **projets personnels**, développés pour apprendre, ou simplement m'amuser.
 Chaque projet est documenté avec :
 - Une **description claire** de son objectif.
 - Les **technologies utilisées**.
@@ -14,7 +14,7 @@ Chaque projet est documenté avec :
 
 ---
 
-## 🚀 Projets en vedette
+## Projets de la page
    **Projet**               | **Description**                          | **Technologies**               | **Lien**                          |
  |--------------------------|------------------------------------------|--------------------------------|-----------------------------------|
  | [Nom du Projet 1]        | Description courte et percutante.       | Python, Flask, SQL             | [Lien](https://github.com/...)   |
