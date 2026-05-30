@@ -8,9 +8,8 @@ Bienvenue sur ma page de projets personnels ! Ici, vous trouverez une sélection
 
 Cette page regroupe certains de mes **projets personnels**, développés pour apprendre, ou simplement m'amuser.
 Chaque projet est documenté avec :
-- Une **description claire** de son objectif.
+- Une **description** de son objectif.
 - Les **technologies utilisées**.
-- Des **instructions** pour l'installer, l'exécuter ou contribuer.
 
 ---
 
