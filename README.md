@@ -6,7 +6,7 @@ Bienvenue sur ma page de projets personnels ! Ici, vous trouverez une sélection
 
 ## À propos
 
-Cette page regroupe mes **projets personnels**, développés pour apprendre, ou simplement m'amuser.
+Cette page regroupe certains de mes **projets personnels**, développés pour apprendre, ou simplement m'amuser.
 Chaque projet est documenté avec :
 - Une **description claire** de son objectif.
 - Les **technologies utilisées**.
@@ -17,7 +17,7 @@ Chaque projet est documenté avec :
 ## Projets de la page
    **Projet**               | **Description**                          | **Technologies**               | **Lien**                          |
  |--------------------------|------------------------------------------|--------------------------------|-----------------------------------|
- | [Nom du Projet 1]        | Description courte et percutante.       | Python, Flask, SQL             | [Lien](https://github.com/...)   |
+ | [Conway's Game of Life.ipynb]        | Description courte et percutante.       | Python, Flask, SQL             | [Lien](https://github.com/...)   |
  | [Nom du Projet 2]        | Description courte et percutante.       | React, Node.js, MongoDB        | [Lien](https://github.com/...)   |
  | [Nom du Projet 3]        | Description courte et percutante.       | JavaScript, D3.js              | [Lien](https://github.com/...)   |
 
