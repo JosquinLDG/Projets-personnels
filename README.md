@@ -19,6 +19,7 @@ Chaque projet est documenté avec :
  | Conway's Game of Life.ipynb        | Simulation du jeu de la vie de John Conway, avec quelques interactions possibles  | Python (numpy, pygame)      | [Lien](https://github.com/JosquinLDG/Projets-personnels/blob/main/Conway's%20Game%20of%20Life.ipynb)   |
  | Détection_droites_cpp.zip        | Projet de détection de droites sur une image bruitée       | C++       | [Lien](https://github.com/JosquinLDG/Projets-personnels/blob/main/D%C3%A9tection_droites_cpp.zip)   |
  | Projet Tetris.7z        | Projet (encore en cours) de développement du jeu Tetris       | C#, Unity              | [Lien](https://github.com/JosquinLDG/Projets-personnels/blob/main/Projet%20Tetris.7z)   |
+ | Générateur de phrases | Projet de générateur de phrases d'après des textes d'apprentissage. Le projet est très basique, il n'utilise pas de deep learning | Python (numpy) | [Lien] (https://github.com/JosquinLDG/Projets-personnels/tree/main/G%C3%A9n%C3%A9rateur%20de%20phrases) |
 
 
 ---
