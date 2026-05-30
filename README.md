@@ -27,6 +27,3 @@ Chaque projet est documenté avec :
 Pour toute question, suggestion ou opportunité de collaboration :
 - **Email** : [josquin.ledantec@gmail.com](mailto:josquin.ledantec@gmail.com)
 - **LinkedIn** : [www.linkedin.com/in/josquin-le-dantec](www.linkedin.com/in/josquin-le-dantec)
-
----
-*Dernière mise à jour : [Date]*
