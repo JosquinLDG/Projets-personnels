@@ -17,7 +17,7 @@ Chaque projet est documenté avec :
 ## Projets de la page
    **Projet**               | **Description**                          | **Technologies**               | **Lien**                          |
  |--------------------------|------------------------------------------|--------------------------------|-----------------------------------|
- | [Conway's Game of Life.ipynb]        | Description courte et percutante.       | Python, Flask, SQL             | [Lien](https://github.com/...)   |
+ | Conway's Game of Life.ipynb        | Simulation du jeu de la vie de John Conway, avec quelques interactions possibles  | Python (numpy, pygame)      | [Lien](https://github.com/...)   |
  | [Nom du Projet 2]        | Description courte et percutante.       | React, Node.js, MongoDB        | [Lien](https://github.com/...)   |
  | [Nom du Projet 3]        | Description courte et percutante.       | JavaScript, D3.js              | [Lien](https://github.com/...)   |
 
