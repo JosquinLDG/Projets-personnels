@@ -17,7 +17,7 @@ Chaque projet est documenté avec :
    **Projet**               | **Description**                          | **Technologies**               | **Lien**                          |
  |--------------------------|------------------------------------------|--------------------------------|-----------------------------------|
  | Conway's Game of Life.ipynb        | Simulation du jeu de la vie de John Conway, avec quelques interactions possibles  | Python (numpy, pygame)      | [Lien](https://github.com/JosquinLDG/Projets-personnels/blob/main/Conway's%20Game%20of%20Life.ipynb)   |
- | [Détection_droites_cpp.zip]        | Projet de détection de droites sur une image bruitée       | C++       | [Lien](https://github.com/JosquinLDG/Projets-personnels/blob/main/D%C3%A9tection_droites_cpp.zip)   |
+ | Détection_droites_cpp.zip        | Projet de détection de droites sur une image bruitée       | C++       | [Lien](https://github.com/JosquinLDG/Projets-personnels/blob/main/D%C3%A9tection_droites_cpp.zip)   |
  | Projet Tetris.7z        | Projet (encore en cours) de développement du jeu Tetris       | C#, Unity              | [Lien](https://github.com/JosquinLDG/Projets-personnels/blob/main/Projet%20Tetris.7z)   |
 
 
